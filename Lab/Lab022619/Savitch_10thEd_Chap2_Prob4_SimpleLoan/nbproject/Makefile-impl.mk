@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CPPTemplate
+PROJECTNAME=Savitch_10thEd_Chap2_Prob4_SimpleLoan
 
 # Active Configuration
 DEFAULTCONF=Debug

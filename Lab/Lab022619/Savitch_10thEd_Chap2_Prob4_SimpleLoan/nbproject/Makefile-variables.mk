@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=cpptemplate
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/cpptemplate
+CND_ARTIFACT_NAME_Debug=savitch_10thed_chap2_prob4_simpleloan
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/savitch_10thed_chap2_prob4_simpleloan
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=cpptemplate.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Debug=savitch10thedchap2prob4simpleloan.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/savitch10thedchap2prob4simpleloan.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=cpptemplate
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/cpptemplate
+CND_ARTIFACT_NAME_Release=savitch_10thed_chap2_prob4_simpleloan
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/savitch_10thed_chap2_prob4_simpleloan
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=cpptemplate.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Release=savitch10thedchap2prob4simpleloan.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/savitch10thedchap2prob4simpleloan.tar
 #
 # include compiler specific variables
 #
