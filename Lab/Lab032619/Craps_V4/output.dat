@@ -1,0 +1,16 @@
+Total Number of Games  = 1000000
+Total Number of Wins   = 49.1803%
+Total Number of Losses = 50.8197%
+Throw       Wins       Losses
+  2            0        27779
+  3            0        55669
+  4        27692        55704
+  5        44572        66927
+  6        62852        75373
+  7       166289            0
+  8        62900        75929
+  9        44682        66816
+ 10        27679        56031
+ 11        55137            0
+ 12            0        27969
+Total Number of Games  = 1000000

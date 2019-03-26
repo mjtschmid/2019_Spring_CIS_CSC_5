@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     
     //Display Heading
     cout<<"X Y !X !Y X&&Y X||Y X^Y ";
-    cout<<"X^Y^Y X^Y^X !(X&&Y) !X||!Y";
+    cout<<"X^Y^Y X^Y^X !(X&&Y) !X||!Y ";
     cout<<"!(X||Y) !X&&!Y"<<endl;
    
     //1st Row of Truth Table
