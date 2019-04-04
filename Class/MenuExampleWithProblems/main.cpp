@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
         cout<<"Choose from the following Menu"<<endl<<endl;
         cout<<"1 Roman Numeral Conversion"<<endl;
         cout<<"2 Pennies for your salary"<<endl;
-        cout<<"3 Problem 3"<<endl;
+        cout<<"3 Savings Problem"<<endl;
         cout<<endl;
         cin>>choice;
         cout<<endl;
